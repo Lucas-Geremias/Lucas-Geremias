@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 # Lucas Geremias :man_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucas-g-79491abb/)](https://www.linkedin.com/in/lucas-g-79491abb/)
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geremiaslucas2012@gmail.com)](mailto:geremiaslucas2012@gmail.com)
+
 
 
 ### Hellooo! 👋 Welcome to my profile
