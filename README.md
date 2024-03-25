@@ -33,7 +33,7 @@ My name is Lucas and ...:
 
  - 😄 I really like to learn
  - 📊 I'm a full stack developer
- - 📚 Focused on ReactJS, NodeJS and React Native
+ - 📚 Focused on C#,typerScript, nodeJs
  - 🌍 graduated in information system
 
 
